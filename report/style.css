@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	width: 1900px;
+	height: 30px;
+	background-color: aqua;
+}
